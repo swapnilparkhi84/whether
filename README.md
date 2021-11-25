@@ -1,2 +1,2 @@
-# whether
-Whether app
+# weather
+Weather app
